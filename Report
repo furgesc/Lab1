@@ -1,0 +1,1 @@
+I was able to get this script to measure vowel duration, but it only measured the time between the boundaries that I had already set manually. I wasn't able to figure out how to get it to read only the labeled segments in the textgrid.
